@@ -5,7 +5,7 @@ Hey there, I’m Serene — welcome to my GitHub!
 I'm a **Business Intelligence Analyst** and **Certified Scrum Master**, recently graduated with an **Masters of Science in Business Analytics** from the University of the Pacific.  
 I turn raw data into insights, guide agile teams through meaningful work, and create visual stories that drive real decisions.
 
-📌 Currently seeking **full-time opportunities** in Business Analytics, Product Analytics, or Agile Project Delivery.
+📌 Currently seeking **full-time opportunities** in Business Analytics, Data Analytics, Product Analytics, or Agile Project Delivery.
 
 ---
 
