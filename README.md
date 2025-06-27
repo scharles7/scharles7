@@ -1,4 +1,4 @@
-# 🌟 “Data is not just numbers — it's a conversation waiting to happen.”  
+# 🌟 “Data is not just numbers - it's a conversation waiting to happen.”  
 
 Hey there, I’m Serene Selles - welcome to my GitHub!
 
