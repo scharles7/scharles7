@@ -1,6 +1,6 @@
 # 🌟 “Data is not just numbers — it's a conversation waiting to happen.”  
 
-Hey there, I’m Serene — welcome to my GitHub!
+Hey there, I’m Serene Selles - welcome to my GitHub!
 
 I'm a **Business Intelligence Analyst** and **Certified Scrum Master**, recently graduated with an **Masters of Science in Business Analytics** from the University of the Pacific.  
 I turn raw data into insights, guide agile teams through meaningful work, and create visual stories that drive real decisions.
